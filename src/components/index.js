@@ -6,7 +6,7 @@ export { default as Button } from "./Button";
 export { default as CardDeal } from "./CardDeal";
 export { default as Clients } from "./Clients";
 export { default as CTA } from "./CTA";
-export { default as FeedBack } from "./FeedBack";
+export { default as FeedBackCard } from "./FeedBackCard";
 export { default as Footer } from "./Footer";
 export { default as GetStarted } from "./GetStarted";
 export { default as Stats } from "./Stats";
